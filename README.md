@@ -1,3 +1,4 @@
+<h1>Simple JavaScript Tabs</h1>
 Optimized, responsive, easy to use tabs made in JavaScript. Without jQuery!
 
 In order to use it in your project, you just need to insert the necessary classes from your HTML markup into the script when declared a variable here:
